@@ -50,6 +50,7 @@ public class AdminController {
 		// 获取认证失败的错误信息，在Shiro框架的 FormAuthenticationFilter 过滤器中共享
 				// 共享的属性名称 shiroLoginFailure
 				// 共享的 shiro 异常的字节码 类型
+		System.out.println("AdminController.login()");
 		String attribute = (String) req.getAttribute("shiroLoginFailure");
 		System.out.println("异常类型："+attribute);
 		if(attribute!=null) {
