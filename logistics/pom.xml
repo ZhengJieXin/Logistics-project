@@ -18,7 +18,7 @@
 		<jdbcmysql.version>8.0.11</jdbcmysql.version>
 		<junit.version>4.12</junit.version>
 		<jstl.version>1.2</jstl.version>
-		<jackson.version>2.9.5</jackson.version>
+		<jackson.version>2.10.3</jackson.version>
 		<aspect.version>1.7.4</aspect.version>
 		<servlet.version>3.1.0</servlet.version>
 		<jsp.version>2.2.1</jsp.version>
