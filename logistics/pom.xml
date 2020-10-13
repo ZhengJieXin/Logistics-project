@@ -16,7 +16,7 @@
 		<shiro.version>1.2.3</shiro.version>
 		<mybatis-pagehelper.version>5.1.8</mybatis-pagehelper.version>
 		<jdbcmysql.version>8.0.11</jdbcmysql.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<jstl.version>1.2</jstl.version>
 		<jackson.version>2.9.5</jackson.version>
 		<aspect.version>1.7.4</aspect.version>
